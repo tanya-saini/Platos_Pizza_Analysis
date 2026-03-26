@@ -135,64 +135,118 @@ The dashboard was designed to:
 
 # 📈 Dashboard Visualizations
 
-## 📊 Daily & Hourly Sales Trends (Bar Chart & Heatmap)
+## 📊 Daily Sales Trends (Bar Chart)
 
-**Orders by Day:**
+1. **Orders by Day:**
 - Friday and Saturday show the highest order volumes  
 - Weekday demand remains steady but comparatively lower  
 
-**Orders by Hour:**
-- Peak demand occurs during:
+## 📊 Hourly Sales Trends (heatmap)
+1. **Orders by Hour:**
+It answers:
+
+- When do customers place the most orders?
+- Which days are busiest?
+- What are the slowest hours?
+
+2. **Friday and Saturday**
+
+- Show consistently high values
+- Strong evening demand
+- Highest overall customer traffic
+
+3. The busiest hours occur during:
   - Lunch: **12:00–13:00**  
   - Dinner: **17:00–18:00**
 
-These time windows represent **critical staffing periods**.
+4. Demand decreases around:
+
+- **3:00 PM – 4:00 PM** - least active daytime period
+
+5. Business Insights from This Chart
+
+- Lunch and dinner hours represent primary revenue-generating windows.
+- Weekend evenings show maximum customer demand, requiring increased staffing.
+- Mid-afternoon hours represent low demand periods, suitable for reduced staffing.
+- Late-night hours show minimal activity, can consider introducing "last evening" promotions to encourage customer's to place orders before 22.
 
 ---
 
-## 🍕 Sales by Pizza Category (Donut Chart)
+## 🍕  Combination Chart  
+Horizontal Bar Chart (Left Side)
+→ Shows total revenue by pizza type
+100% Stacked Bar Chart (Right Side)
+→ Shows percentage distribution of pizza sizes within each pizza type
 
-Displays distribution across:
+1. This chart is used to:
 
-- Classic  
-- Supreme  
-- Chicken  
-- Veggie  
+- Compare revenue performance across pizza types
+- Understand customer size preferences within each type
+- Identify best-performing pizza categories
+- Support inventory and menu optimization decisions
 
-**Insights:**
-- Classic pizzas dominate total order volume  
-- Chicken pizzas contribute higher revenue margins  
+2. Business Insights from This Chart:
+
+- Classic pizzas are the highest revenue contributors, making them key revenue drivers.
+- Large-sized pizzas dominate across most categories, indicating strong customer preference for value-sized products.
+- Veggie and Chicken pizzas show particularly high Large-size demand, suggesting bulk purchase behavior.
+- Regular-size Classic pizzas remain highly popular, indicating balanced size demand.
 
 ---
 
 ## 🏆 Top & Bottom Sellers (Bar Charts)
 
-Displays:
+1. Displays:
 
 - Top 5 pizzas by revenue  
 - Bottom 5 pizzas by revenue  
 
-Supports **Menu Engineering Decisions** such as:
+2. Supports **Menu Engineering Decisions** such as:
 
 - Promotion strategies  
 - Product optimization  
 - Menu restructuring  
 
 ---
+## 🏆 Area Chart (Monthly Performance)
+1. This chart higlights:
 
-## 📏 Size Distribution (Stacked Bar / Pie Chart)
+- Monthly sales and order trends
+- Peak-performing/low-performing months
+- Trends to understand seasonal patterns
+- Patterns to forecast future demand trends
 
-Breakdown of:
+2. Business Insights from This Chart
 
-- Small  
-- Medium  
-- Large  
-
-**Insight:**
-Large pizzas generate the highest percentage of revenue, indicating strong consumer preference.
+- **July** is the peak demand month, requiring increased staffing and inventory preparation.
+- **October** records the lowest performance, indicating a need for promotional campaigns.
+- Mid-year months show higher demand, suggesting seasonal buying behavior.
+- Late-year decline (September–October) indicates possible seasonal slowdown.
+We need to focus on marketing strategy development based on seasonal demand patterns.
 
 ---
+# 📌 Donut Chart used for Ingredient & Inventory Classification Analysis.
+1. This chart is used to:
 
+- Show proportion of ingredient usage types
+- Compare Single-Use vs Multi-Use ingredients
+- Support inventory planning
+- Identify resource utilization patterns 
+- Help reduce material waste and stock shortages
+
+2. It answers:
+
+How many ingredients are used once vs multiple times?
+Which ingredient type dominates inventory usage?
+How can stock planning be optimized without affecting efficiency?
+
+3. Business Insights from This Chart
+
+- A higher number of **Single-Use** ingredients suggests increased inventory diversity and potential storage challenges.
+- **Multi-Use** ingredients improve operational efficiency, as they reduce dependency on specialized stock.
+- Optimizing recipes to increase Multi-Use ingredient utilization may help reduce overall inventory costs.
+
+---
 # 📌 Business Impact & Insights
 
 ## ⚙️ Operational Efficiency
