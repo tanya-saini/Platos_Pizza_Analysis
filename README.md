@@ -242,8 +242,9 @@ Introduce combo deals and bundles to increase AOV.
 ---
 
 # 📷 Glimpses of the Dashboard
-![Alt text].(https://github.com/tanya-saini/Platos_Pizza_Analysis/assets/image.png)
-![Dashboard Overview].(https://github.com/tanya-saini/Platos_Pizza_Analysis/blob/main/dashboard%20overview.png).
+
+![Dashboard Overview](https://github.com/tanya-saini/Platos_Pizza_Analysis/blob/main/dashboard%20overview.png)
+![Dashboard Detailed](https://github.com/tanya-saini/Platos_Pizza_Analysis/blob/main/dashboard%20detailed.png)
 
 ---
 
