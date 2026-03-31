@@ -8,7 +8,7 @@ A dynamic, interactive data visualization and statistical analysis project desig
 
 # 📖 Project Description
 
-**Plato’s Pizza Analysis** is a high-performance analytical solution developed to transform over **20,000+ rows of transactional pizza sales data** into meaningful business intelligence.
+**Plato’s Pizza Analysis** is a high-performance analytical solution developed to transform over **40,000+ rows of transactional pizza sales data** into meaningful business intelligence.
 
 The project integrates statistical analysis, visualization, and operational insights to support business decision-making, particularly around **staffing optimization, late-night operations, menu engineering, and inventory planning**.
 
