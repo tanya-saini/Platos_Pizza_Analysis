@@ -225,7 +225,7 @@ Horizontal Bar Chart (Left Side)
 We need to focus on marketing strategy development based on seasonal demand patterns.
 
 ---
-# 📌 Donut Chart used for Ingredient & Inventory Classification Analysis.
+## 📌 Donut Chart used for Ingredient & Inventory Classification Analysis.
 1. This chart is used to:
 
 - Show proportion of ingredient usage types
