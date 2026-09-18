@@ -1,4 +1,4 @@
-# 🍕 Plato’s Pizza Analysis 
+# Plato’s Pizza Analysis 
 
 **Plato’s Pizza Analysis: Revenue, Sales Efficiency, and Customer Behavior Insights Dashboard**
 
@@ -6,7 +6,7 @@ A dynamic, interactive data visualization and statistical analysis project desig
 
 ---
 
-# 📖 Project Description
+# Project Description
 
 **Plato’s Pizza Analysis** is a high-performance analytical solution developed to transform over **40,000+ rows of transactional pizza sales data** into meaningful business intelligence.
 
@@ -16,7 +16,7 @@ The dashboard enables stakeholders to identify **peak demand periods**, evaluate
 
 ---
 
-# 🎯 Business Objectives
+# Business Objectives
 
 The project addresses the following analytical questions:
 
@@ -33,14 +33,14 @@ The project addresses the following analytical questions:
 
 ---
 
-# 🛠️ Tech Stack
+# Tech Stack
 
 The analysis was performed using a combination of modern data analytics and visualization tools:
 
-## 📗 Microsoft Excel
+## Microsoft Excel
 Used as the primary data integration layer to merge multiple datasets into a single structured flat file. Excel supported data validation, preprocessing, and formatting prior to analysis.
 
-## 🪐 Jupyter Notebook (Python)
+## Jupyter Notebook (Python)
 Served as the primary environment for **Exploratory Data Analysis (EDA)**.
 
 **Python Libraries Used:**
@@ -49,7 +49,7 @@ Served as the primary environment for **Exploratory Data Analysis (EDA)**.
 - Matplotlib – Visualization creation  
 - Seaborn – Statistical plotting  
 
-## 🧠 DAX (Data Analysis Expressions)
+## DAX (Data Analysis Expressions)
 Used to create dynamic measures including:
 
 - Revenue calculations  
@@ -57,12 +57,12 @@ Used to create dynamic measures including:
 - Late-night revenue loss calculations  
 - Percentage weekday revenue impact  
 
-## 📊 Power BI Desktop
+## Power BI Desktop
 Primary visualization tool used to build interactive dashboards and enable filtering across multiple dimensions. Used KPI's(Key Performance Indicators) to highlight the overall status of the business in a summarized format.
 
 ---
 
-# 📂 Data Source
+# Data Source
 
 **Source:** Internal transactional pizza sales dataset.
 
@@ -92,9 +92,9 @@ The dataset spans a **full calendar year**, enabling accurate seasonal and behav
 
 ---
 
-# ⭐ Features / Highlights
+# Features / Highlights
 
-## 🧩 Business Problem
+## Business Problem
 
 The client faced challenges in balancing **labor costs** with **late-night operational revenue**, particularly during weekdays.
 
@@ -108,7 +108,7 @@ Key concerns included:
 
 ---
 
-## 🎯 Goal of the Dashboard
+## Goal of the Dashboard
 
 The dashboard was designed to:
 
@@ -121,7 +121,7 @@ The dashboard was designed to:
 
 ---
 
-# 📊 Key Performance Indicators (KPIs)
+# Key Performance Indicators (KPIs)
 
 | KPI | Value |
 |-----|------|
@@ -133,15 +133,15 @@ The dashboard was designed to:
 
 ---
 
-# 📈 Dashboard Visualizations
+# Dashboard Visualizations
 
-## 📊 Daily Sales Trends (Bar Chart)
+## Daily Sales Trends (Bar Chart)
 
 1. **Orders by Day:**
 - Friday and Saturday show the highest order volumes  
 - Weekday demand remains steady but comparatively lower  
 
-## 📊 Hourly Sales Trends (heatmap)
+## Hourly Sales Trends (heatmap)
 1. **Orders by Hour:**
 It answers:
 
@@ -172,7 +172,7 @@ It answers:
 
 ---
 
-## 🍕  Combination Chart  
+## Combination Chart  
 Horizontal Bar Chart (Left Side)
 → Shows total revenue by pizza type
 100% Stacked Bar Chart (Right Side)
@@ -194,7 +194,7 @@ Horizontal Bar Chart (Left Side)
 
 ---
 
-## 🏆 Top & Bottom Sellers (Bar Charts)
+## Top & Bottom Sellers (Bar Charts)
 
 1. Displays:
 
@@ -208,7 +208,7 @@ Horizontal Bar Chart (Left Side)
 - Menu restructuring  
 
 ---
-## 🏆 Area Chart (Monthly Performance)
+## Area Chart (Monthly Performance)
 1. This chart higlights:
 
 - Monthly sales and order trends
@@ -225,7 +225,7 @@ Horizontal Bar Chart (Left Side)
 We need to focus on marketing strategy development based on seasonal demand patterns.
 
 ---
-## 📌 Donut Chart used for Ingredient & Inventory Classification Analysis.
+## Donut Chart used for Ingredient & Inventory Classification Analysis.
 1. This chart is used to:
 
 - Show proportion of ingredient usage types
@@ -247,9 +247,9 @@ How can stock planning be optimized without affecting efficiency?
 - Optimizing recipes to increase Multi-Use ingredient utilization may help reduce overall inventory costs.
 
 ---
-# 📌 Business Impact & Insights
+# Business Impact & Insights
 
-## ⚙️ Operational Efficiency
+## Operational Efficiency
 
 Late-night weekday operations contribute minimal revenue.
 
@@ -258,7 +258,7 @@ Reducing late-night weekday hours can lower operational costs without major reve
 
 ---
 
-## 👥 Staffing Optimization
+## Staffing Optimization
 
 Demand patterns show:
 
@@ -270,7 +270,7 @@ Optimizes staffing allocation.
 
 ---
 
-## 📦 Inventory Precision
+## Inventory Precision
 
 High demand observed for:
 
@@ -282,27 +282,27 @@ Improves procurement planning and reduces waste.
 
 ---
 
-# 📣 Marketing Optimization Insights
+# Marketing Optimization Insights
 
-## 🚀 Promote High-Revenue Pizzas
+## Promote High-Revenue Pizzas
 Focus promotions on top-performing pizzas to increase revenue.
 
-## ⏰ Leverage Peak Sales Periods
+## Leverage Peak Sales Periods
 Increase staffing and inventory during peak demand periods.
 
-## 🧺 Encourage Larger Orders
+## Encourage Larger Orders
 Introduce combo deals and bundles to increase AOV.
 
 ---
 
-# 📷 Glimpses of the Dashboard
+# Glimpses of the Dashboard
 
 ![Dashboard Overview](https://github.com/tanya-saini/Platos_Pizza_Analysis/blob/main/dashboard%20overview.png)
 ![Dashboard Detailed](https://github.com/tanya-saini/Platos_Pizza_Analysis/blob/main/dashboard%20detailed.png)
 
 ---
 
-# 📊 Analytical Summary
+# Analytical Summary
 
 The Plato’s Pizza dashboard integrates transactional and behavioral data into a unified analytical system. By combining visualization, statistical modeling, and KPI tracking, the system provides valuable insights into customer demand and product-level performance.
 
@@ -313,7 +313,7 @@ Overall, the dashboard enhances decision-making across marketing, staffing, inve
 ---
 
 
-# 🌍 Future Work / Project Scope
+# Future Work / Project Scope
 
 Future expansion possibilities include:
 - Profitability Analysis: Ingredient costs, Labor costs, Profit margins
