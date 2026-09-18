@@ -92,35 +92,6 @@ The dataset spans a **full calendar year**, enabling accurate seasonal and behav
 
 ---
 
-# Features / Highlights
-
-## Business Problem
-
-The client faced challenges in balancing **labor costs** with **late-night operational revenue**, particularly during weekdays.
-
-Key concerns included:
-
-- Determining whether staying open **past 10:00 PM (Sunday–Thursday)** was financially viable  
-- Identifying **peak demand hours**  
-- Understanding which pizza categories contributed the most revenue  
-- Improving **inventory planning**  
-- Reducing **operational waste**
-
----
-
-## Goal of the Dashboard
-
-The dashboard was designed to:
-
-- Calculate revenue impact of late-night weekday operations  
-- Identify peak order hours for staffing optimization  
-- Segment sales by category and size  
-- Highlight top and bottom performing pizzas  
-- Improve operational efficiency and profitability  
-- Enable data-driven decision-making  
-
----
-
 # Key Performance Indicators (KPIs)
 
 | KPI | Value |
@@ -170,7 +141,6 @@ It answers:
 - Mid-afternoon hours represent low demand periods, suitable for reduced staffing.
 - Late-night hours show minimal activity, can consider introducing "last evening" promotions to encourage customer's to place orders before 22.
 
----
 
 ## Combination Chart  
 Horizontal Bar Chart (Left Side)
@@ -192,7 +162,6 @@ Horizontal Bar Chart (Left Side)
 - Veggie and Chicken pizzas show particularly high Large-size demand, suggesting bulk purchase behavior.
 - Regular-size Classic pizzas remain highly popular, indicating balanced size demand.
 
----
 
 ## Top & Bottom Sellers (Bar Charts)
 
@@ -207,7 +176,7 @@ Horizontal Bar Chart (Left Side)
 - Product optimization  
 - Menu restructuring  
 
----
+
 ## Area Chart (Monthly Performance)
 1. This chart higlights:
 
@@ -224,7 +193,7 @@ Horizontal Bar Chart (Left Side)
 - Late-year decline (September–October) indicates possible seasonal slowdown.
 We need to focus on marketing strategy development based on seasonal demand patterns.
 
----
+
 ## Donut Chart used for Ingredient & Inventory Classification Analysis.
 1. This chart is used to:
 
@@ -247,6 +216,7 @@ How can stock planning be optimized without affecting efficiency?
 - Optimizing recipes to increase Multi-Use ingredient utilization may help reduce overall inventory costs.
 
 ---
+
 # Business Impact & Insights
 
 ## Operational Efficiency
@@ -256,7 +226,6 @@ Late-night weekday operations contribute minimal revenue.
 **Impact:**
 Reducing late-night weekday hours can lower operational costs without major revenue loss.
 
----
 
 ## Staffing Optimization
 
@@ -268,7 +237,6 @@ Demand patterns show:
 **Impact:**
 Optimizes staffing allocation.
 
----
 
 ## Inventory Precision
 
@@ -323,4 +291,3 @@ Future expansion possibilities include:
 - Automated inventory management  
 - Cloud-based dashboard deployment   
 
----
