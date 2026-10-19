@@ -1,5 +1,5 @@
 # Plato’s Pizza Analysis 
-jhgfd
+
 **Plato’s Pizza Analysis: Revenue, Sales Efficiency, and Customer Behavior Insights Dashboard**
 
 A dynamic, interactive data visualization and statistical analysis project designed to explore a full year of pizza sales data, focusing on revenue trends, sales efficiency, peak ordering hours, order timing, weekday impact, product performance, and inventory management.
